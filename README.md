@@ -2,12 +2,18 @@
 Links to some useful resources for learning about multivariate regression and chemometrics
 
 "Chemometrics and Machine Learning in Copenhagen" Youtube Channel
+
 https://www.youtube.com/@QualityAndTechnology
+
 Some good playlists, including Preprocessing, and PLS Regression
 
+
 "Bruce Kowalski. The father of chemometrics" (Youtube video)
+
 https://www.youtube.com/watch?v=qgm1wEAhTKw&t=314s
+
 Recording of a 1991 lecture from Prof. Bruce Kowalski. The video is very grainy and is filled with static, but the lecture itself still holds up very well! 
+
 
 "Partial least-squares regression: a tutorial" Paul Geladi and Bruce Kowalski, 1986, Analytica Chimica Acta
 https://doi-org.ornl.idm.oclc.org/10.1016/0003-2670(86)80028-9
