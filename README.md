@@ -1,5 +1,6 @@
 # Regression
 Links to some useful resources for learning about multivariate regression and chemometrics
+
 "Chemometrics and Machine Learning in Copenhagen" Youtube Channel
 https://www.youtube.com/@QualityAndTechnology
 Some good playlists, including Preprocessing, and PLS Regression
