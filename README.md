@@ -1,6 +1,13 @@
 # Regression
 Links to some useful resources for learning about multivariate regression and chemometrics
 
+MIT 18.06 Linear Algebra Course with Prof. Gilbert Strang
+
+https://youtube.com/playlist?list=PLE7DDD91010BC51F8&si=N7oN1sLecLShQ1PC
+
+The best course I've ever taken
+________________________________________________________________
+
 "Chemometrics and Machine Learning in Copenhagen" Youtube Channel
 
 https://www.youtube.com/@QualityAndTechnology
