@@ -24,7 +24,7 @@ ___________________________________________________
 
 "Partial least-squares regression: a tutorial" Paul Geladi and Bruce Kowalski, 1986, Analytica Chimica Acta
 
-https://doi-org.ornl.idm.oclc.org/10.1016/0003-2670(86)80028-9
+https://doi.org/10.1016/0003-2670(86)80028-9
 
 With over 9500 citations, this paper gives the foundations of how the PLS regression works
 
